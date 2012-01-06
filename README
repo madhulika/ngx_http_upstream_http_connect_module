@@ -1,0 +1,1 @@
+This module supports HTTP Connect request. It assumes a standard size of 8 bytes for content length.
